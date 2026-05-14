@@ -25,25 +25,32 @@ int Train::getOpCount() {
 
 int Train::getLength() {
   if (!first) return 0;
+  
   first->light = true;
+  Car* current = first;
   int length = 0;
+
   while (true) {
     length++;
-    Car* current = first;
-    for (int i = 0; i < length; i++) {
-      current = current->next;
-      countOp++;
-    }
+    // Делаем один шаг вперед
+    current = current->next;
+    countOp++;
+
     if (current->light) {
       current->light = false;
+      // Возвращаемся ровно на length назад
       for (int i = 0; i < length; i++) {
         current = current->prev;
         countOp++;
       }
-      if (!first->light) return length;
-    } else {
+      // Если маяк погас - нашли длину
+      if (!current->light) {
+        return length;
+      }
+      // Если нет - зажигаем маяк снова и продолжаем от него
+      current->light = true;
       for (int i = 0; i < length; i++) {
-        current = current->prev;
+        current = current->next;
         countOp++;
       }
     }
