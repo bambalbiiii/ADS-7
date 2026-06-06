@@ -6,6 +6,7 @@
 #include <algorithm>
 #include "train.h"
 #include "lodepng.h"
+#include <iostream>
 
 const int W = 900, H = 600;
 const int ML = 80, MR = 30, MT = 30, MB = 60;
