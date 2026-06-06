@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/andreikar/Desktop/algr/ADS-7/build/cmake_install.cmake",
-		"/Users/andreikar/Desktop/algr/ADS-7/build/src/cmake_install.cmake",
-		"/Users/andreikar/Desktop/algr/ADS-7/build/test/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
