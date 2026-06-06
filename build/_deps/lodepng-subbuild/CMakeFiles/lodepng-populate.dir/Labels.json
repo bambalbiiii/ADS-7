@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test.rule"
+		},
+		{
+			"file" : "/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lodepng-populate"
+		],
+		"name" : "lodepng-populate"
+	}
+}

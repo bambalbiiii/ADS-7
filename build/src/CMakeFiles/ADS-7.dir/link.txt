@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libADS-7.dylib -install_name @rpath/libADS-7.dylib "CMakeFiles/ADS-7.dir/train.cpp.o"  -lpthread

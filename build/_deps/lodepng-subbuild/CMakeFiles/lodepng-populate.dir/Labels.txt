@@ -1,0 +1,14 @@
+# Target labels
+ lodepng-populate
+# Source files and their labels
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test.rule
+/Users/andreikar/Desktop/algr/ADS-7/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update.rule
