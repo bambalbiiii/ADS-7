@@ -1,12 +1,12 @@
 // Copyright 2022 NNTU-CS
 #include <cstdlib>
 #include <ctime>
-#include <vector>
-#include <string>
 #include <algorithm>
+#include <iostream>
+#include <string>
+#include <vector>
 #include "train.h"
 #include "lodepng.h"
-#include <iostream>
 
 const int W = 900, H = 600;
 const int ML = 80, MR = 30, MT = 30, MB = 60;
